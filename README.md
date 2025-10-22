@@ -42,6 +42,3 @@ Data was obtained from Inside Airbnb, including location, property type, number 
 ### **Tecnologias | Technologies**
 Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn.
 
----
-
-### **Estrutura do Projeto | Project Structure**
